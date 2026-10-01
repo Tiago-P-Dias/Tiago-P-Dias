@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Tiago Dias 👋
 
-<!--
-**Tiago-P-Dias/Tiago-P-Dias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Informatics and Multimedia Engineering BSc Student** at **ISEL**
 
-Here are some ideas to get you started:
+💻 Passionate about software engineering, interactive web applications, and creative digital media.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🔬 Studying **Informatics and Multimedia Engineering BSc** at **ISEL** (Instituto Superior de Engenharia de Lisboa).
+- 🎨 Focused on crafting clean code, responsive user interfaces, and engaging multimedia experiences.
+- 💡 Interested in full-stack web development, interactive graphics, mobile applications, and machine learning.
+
+---
+
+### 🛠️️ Technical Proficiencies
+
+- **Languages:** Java, JavaScript, Python, HTML5, CSS3, C++
+- **Frontend & UI:** Bootstrap 5, Flexbox/Grid, Responsive Web Design, Custom CSS Animations
+- **Core Domains:** Web Development, Multimedia Systems, Mobile Development, Machine Learning
+- **Developer Tools:** Git, GitHub, VS Code
