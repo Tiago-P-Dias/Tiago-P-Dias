@@ -1,6 +1,6 @@
 # Hi there, I'm Tiago Dias 👋
 
-🎓 **Informatics and Multimedia Engineering BSc Student** at **ISEL**
+🎓 **Informatics and Multimedia Engineering Student** at **ISEL**
 
 💻 Passionate about software engineering, interactive web applications, and creative digital media.
 
@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🔬 Studying **Informatics and Multimedia Engineering BSc** at **ISEL** (Instituto Superior de Engenharia de Lisboa).
+- 🔬 Studying **Informatics and Multimedia Engineering** at **ISEL** (Lisbon School of Engineering).
 - 🎨 Focused on crafting clean code, responsive user interfaces, and engaging multimedia experiences.
 - 💡 Interested in full-stack web development, interactive graphics, mobile applications, and machine learning.
 
